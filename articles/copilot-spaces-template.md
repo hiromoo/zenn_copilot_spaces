@@ -87,6 +87,7 @@ A: 再送信失敗が多く、API ポーリング方式を採用。
 ```bash
 git clone https://github.com/hiromoo/copilot-space-tools.git
 cd copilot-space-tools
+npm install
 npm run build
 npm run start:cli
 ```
