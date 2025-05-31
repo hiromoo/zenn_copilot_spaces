@@ -27,7 +27,7 @@ GitHub が 2025 年に発表した **[Copilot Spaces](https://github.com/feature
 
 Copilot Spaces は、Copilot に対して **プロジェクト特有の背景知識や意図、ルールなどを共有する「文脈ハブ」** です。
 
-![](https://github.blog/jp/wp-content/uploads/sites/16/2025/05/copilot-spaces-preview.png)
+![](https://github.blog/wp-content/uploads/2025/05/CopilotSpacesHeroImage.png)
 
 従来のように README や Wiki だけに頼るのではなく、 **AI が理解し、会話的に補助できる知識ベース** を構築できます。
 
@@ -96,7 +96,7 @@ node init-copilot-space.js
 
 HTML + JS だけで使えるシンプルな UI:
 
-![](https://raw.githubusercontent.com/your-org/copilot-space-tools/main/preview.png)
+![](https://raw.githubusercontent.com/hiromoo/copilot-space-tools/main/assets/web-preview.png)
 
 ## 💡 活用 Tips
 
@@ -117,5 +117,5 @@ GitHub が Copilot Spaces API を公開すれば、以下のような自動化�
 属人化の最大の敵は「説明されない文脈」です。  
 GitHub Copilot Spaces をうまく使えば、 **知識が埋もれず、引き継がれる** 開発文化を築けます。
 
-📦 このテンプレートとツールはすべて GitHub に公開予定です。  
-→ 公開リポジトリはこちら 👉 `https://github.com/hiromoo/copilot-space-tools`
+📦 このテンプレートとツールはすべて GitHub で公開中です。  
+→ 公開リポジトリはこちら 👉 https://github.com/hiromoo/copilot-space-tools
